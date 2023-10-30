@@ -1,0 +1,15 @@
+# About
+
+<div align="center">
+    <img src="https://github.com/IvanVasiunin/investment-calculator/blob/main/public/app_UI.jpg" alt="certificate" />
+</div>
+
+An investment calculator in which you can enter some data about your planned investments.
+For example, your current savings, the amount you are going to add each year, the expected return on investment, your time horizon, i.e. the timing of these investments.
+Once you enter the data, you will get a table with the results of the calculations, where you can see by year how much interest you will get, etc.
+
+# For developers
+
+- Clone the project to your computer
+- Install all dependencies with: npm i
+- To start your project, use the command: <code>npm run dev</code>

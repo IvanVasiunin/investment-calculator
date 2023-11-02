@@ -11,6 +11,10 @@ Once you enter the data, you will get a table with the results of the calculatio
 
 # For developers
 
+This project was created with Create React App.
+
+In order to run the project:
+
 - Clone the project to your computer
 - Install all dependencies with: npm i
 - To start your project, use the command: <code>npm run dev</code>

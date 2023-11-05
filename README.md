@@ -14,7 +14,7 @@ Once you enter the data, you will get a table with the results of the calculatio
 In order to run the project:
 
 - Clone the project to your computer
-- Install all dependencies with: npm i
+- Install all dependencies with: <code>npm install</code>
 - To start your project, use the command: <code>npm run dev</code>
 
 ## Stack and Tools
